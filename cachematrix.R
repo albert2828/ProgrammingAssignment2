@@ -1,5 +1,7 @@
 ## The following functions are designed to store information about an invertible matrix, to 
-## compute its inverse and if its inverse is already computed, to get it from the cache
+## compute its inverse and if its inverse is already computed, to get it from the cache.
+
+## Theese two functions are based on the examples provided by professor Peng in the README.MD file.
 
 ## This function creates a special "matrix" out of a given matrix. It creates a list that contains 
 ## the given matrix and is inverse. (It is recomendable to store the result in a variable.)
